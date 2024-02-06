@@ -1,5 +1,5 @@
 export const Questions = [{
-    prompt:"What is your name ?",
+    prompt:"Who is the regional manager of Scranton ?",
     optA: "Jim",
     optB: "John",
     optC: "Dwight",
